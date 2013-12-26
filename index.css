@@ -1,0 +1,11 @@
+#container{
+  width: 100%;
+  position: relative;
+}
+
+.box{
+  float: left;
+  background-color: #00ffff;
+  position: relative;
+  border: solid black 1px;
+}
